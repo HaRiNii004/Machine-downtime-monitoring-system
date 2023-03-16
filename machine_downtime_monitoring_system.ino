@@ -7,9 +7,9 @@ char auth[] = "YOUR_AUTH_TOKEN";
 char ssid[] = "STUDENT";
 char pass[] = "iot@2025";
 
-#define BLYNK_TEMPLATE_ID "TMPLI3nv5am6"
+#define BLYNK_TEMPLATE_ID "      "
 #define BLYNK_TEMPLATE_NAME "Machine downtime monitoring system"
-#define BLYNK_AUTH_TOKEN "ANgnrHXlx9rwZ2LK6AIeLYalFRsPL46p"
+#define BLYNK_AUTH_TOKEN "      "
 
 #define BLYNK_PRINT Serial
 #define BLYNK_TIMEOUT_MS 5000
